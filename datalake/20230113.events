@@ -1,0 +1,455 @@
+{"date":"2023-01-13T00:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":5.3,"tmin":4.7,"temperature":4.7}
+{"date":"2023-01-13T00:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.7,"tmin":6.2,"temperature":6.2}
+{"date":"2023-01-13T00:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.7,"tmin":10.0,"temperature":10.3}
+{"date":"2023-01-13T00:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":19.1,"tmin":18.9,"temperature":19.0}
+{"date":"2023-01-13T00:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.0,"tmin":18.8,"temperature":19.0}
+{"date":"2023-01-13T00:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":8.9,"tmin":8.5,"temperature":8.5}
+{"date":"2023-01-13T00:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":12.5,"tmin":12.2,"temperature":12.3}
+{"date":"2023-01-13T00:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":17.1,"tmin":16.5,"temperature":16.5}
+{"date":"2023-01-13T00:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":19.9,"tmin":19.0,"temperature":19.0}
+{"date":"2023-01-13T00:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":17.8,"tmin":17.3,"temperature":17.3}
+{"date":"2023-01-13T00:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":11.2,"tmin":10.1,"temperature":10.1}
+{"date":"2023-01-13T00:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":18.9,"tmin":18.7,"temperature":18.7}
+{"date":"2023-01-13T00:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.5,"tmin":18.4,"temperature":18.4}
+{"date":"2023-01-13T00:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.6,"tmin":15.5,"temperature":15.6}
+{"date":"2023-01-13T00:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.5,"tmin":15.3,"temperature":15.5}
+{"date":"2023-01-13T00:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.3,"tmin":19.3,"temperature":19.3}
+{"date":"2023-01-13T00:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.4,"tmin":19.3,"temperature":19.4}
+{"date":"2023-01-13T00:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":11.8,"tmin":11.7,"temperature":11.8}
+{"date":"2023-01-13T00:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.4,"tmin":16.3,"temperature":16.4}
+{"date":"2023-01-13T00:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.9,"tmin":19.1,"temperature":19.2}
+{"date":"2023-01-13T00:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.7,"tmin":19.3,"temperature":19.5}
+{"date":"2023-01-13T00:00:00","station":"C665T","place":"VALLESECO","tmax":10.3,"tmin":10.1,"temperature":10.3}
+{"date":"2023-01-13T00:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.4,"tmin":15.2,"temperature":15.3}
+{"date":"2023-01-13T00:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.5,"tmin":18.3,"temperature":18.5}
+{"date":"2023-01-13T00:00:00","station":"C689E","place":"MASPALOMAS","tmax":19.2,"tmin":18.9,"temperature":18.9}
+{"date":"2023-01-13T01:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":5.0,"tmin":4.6,"temperature":4.6}
+{"date":"2023-01-13T01:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.4,"tmin":6.0,"temperature":6.0}
+{"date":"2023-01-13T01:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.7,"tmin":10.1,"temperature":10.2}
+{"date":"2023-01-13T01:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":19.0,"tmin":18.8,"temperature":18.8}
+{"date":"2023-01-13T01:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.1,"tmin":18.9,"temperature":19.1}
+{"date":"2023-01-13T01:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":8.4,"tmin":7.9,"temperature":7.9}
+{"date":"2023-01-13T01:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":12.3,"tmin":11.7,"temperature":11.7}
+{"date":"2023-01-13T01:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":16.7,"tmin":16.6,"temperature":16.6}
+{"date":"2023-01-13T01:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":19.1,"tmin":18.8,"temperature":18.8}
+{"date":"2023-01-13T01:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":18.0,"tmin":17.2,"temperature":17.2}
+{"date":"2023-01-13T01:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":10.0,"tmin":9.2,"temperature":9.2}
+{"date":"2023-01-13T01:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":18.8,"tmin":18.7,"temperature":18.8}
+{"date":"2023-01-13T01:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.7,"tmin":18.5,"temperature":18.6}
+{"date":"2023-01-13T01:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.6,"tmin":15.6,"temperature":15.6}
+{"date":"2023-01-13T01:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.5,"tmin":15.4,"temperature":15.4}
+{"date":"2023-01-13T01:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.5,"tmin":19.3,"temperature":19.4}
+{"date":"2023-01-13T01:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.5,"tmin":19.4,"temperature":19.4}
+{"date":"2023-01-13T01:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":12.1,"tmin":11.9,"temperature":12.0}
+{"date":"2023-01-13T01:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.5,"tmin":16.3,"temperature":16.3}
+{"date":"2023-01-13T01:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.0,"tmin":17.6,"temperature":19.3}
+{"date":"2023-01-13T01:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.7,"tmin":19.3,"temperature":19.5}
+{"date":"2023-01-13T01:00:00","station":"C665T","place":"VALLESECO","tmax":10.5,"tmin":10.3,"temperature":10.3}
+{"date":"2023-01-13T01:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.5,"tmin":15.3,"temperature":15.5}
+{"date":"2023-01-13T01:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.4,"tmin":18.3,"temperature":18.3}
+{"date":"2023-01-13T01:00:00","station":"C689E","place":"MASPALOMAS","tmax":19.1,"tmin":18.9,"temperature":19.1}
+{"date":"2023-01-13T02:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":4.6,"tmin":4.2,"temperature":4.3}
+{"date":"2023-01-13T02:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.1,"tmin":5.7,"temperature":5.7}
+{"date":"2023-01-13T02:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.4,"tmin":9.9,"temperature":10.2}
+{"date":"2023-01-13T02:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":19.0,"tmin":18.6,"temperature":18.8}
+{"date":"2023-01-13T02:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.1,"tmin":18.5,"temperature":18.9}
+{"date":"2023-01-13T02:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":7.8,"tmin":7.5,"temperature":7.7}
+{"date":"2023-01-13T02:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":11.8,"tmin":11.5,"temperature":11.5}
+{"date":"2023-01-13T02:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":16.8,"tmin":16.6,"temperature":16.6}
+{"date":"2023-01-13T02:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":19.0,"tmin":18.5,"temperature":19.0}
+{"date":"2023-01-13T02:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":17.3,"tmin":16.4,"temperature":16.5}
+{"date":"2023-01-13T02:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":9.3,"tmin":8.9,"temperature":8.9}
+{"date":"2023-01-13T02:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":19.1,"tmin":18.7,"temperature":19.1}
+{"date":"2023-01-13T02:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.6,"tmin":18.3,"temperature":18.3}
+{"date":"2023-01-13T02:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.6,"tmin":15.4,"temperature":15.6}
+{"date":"2023-01-13T02:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.4,"tmin":15.2,"temperature":15.4}
+{"date":"2023-01-13T02:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.3,"tmin":18.6,"temperature":18.6}
+{"date":"2023-01-13T02:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.2,"tmin":19.1,"temperature":19.2}
+{"date":"2023-01-13T02:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":12.0,"tmin":11.7,"temperature":11.7}
+{"date":"2023-01-13T02:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.3,"tmin":16.1,"temperature":16.1}
+{"date":"2023-01-13T02:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.4,"tmin":19.1,"temperature":19.3}
+{"date":"2023-01-13T02:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.7,"tmin":19.3,"temperature":19.5}
+{"date":"2023-01-13T02:00:00","station":"C665T","place":"VALLESECO","tmax":10.3,"tmin":10.3,"temperature":10.3}
+{"date":"2023-01-13T02:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.5,"tmin":15.3,"temperature":15.4}
+{"date":"2023-01-13T02:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.3,"tmin":18.2,"temperature":18.3}
+{"date":"2023-01-13T02:00:00","station":"C689E","place":"MASPALOMAS","tmax":19.5,"tmin":18.9,"temperature":19.5}
+{"date":"2023-01-13T03:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":5.3,"tmin":4.4,"temperature":4.8}
+{"date":"2023-01-13T03:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.4,"tmin":5.8,"temperature":6.2}
+{"date":"2023-01-13T03:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.7,"tmin":10.1,"temperature":10.4}
+{"date":"2023-01-13T03:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":18.9,"tmin":18.6,"temperature":18.8}
+{"date":"2023-01-13T03:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.3,"tmin":18.9,"temperature":19.2}
+{"date":"2023-01-13T03:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":7.9,"tmin":7.6,"temperature":7.9}
+{"date":"2023-01-13T03:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":11.4,"tmin":11.3,"temperature":11.4}
+{"date":"2023-01-13T03:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":16.5,"tmin":15.9,"temperature":15.9}
+{"date":"2023-01-13T03:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":18.8,"tmin":18.5,"temperature":18.5}
+{"date":"2023-01-13T03:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.5,"tmin":16.0,"temperature":16.2}
+{"date":"2023-01-13T03:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":10.6,"tmin":8.6,"temperature":10.6}
+{"date":"2023-01-13T03:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":19.3,"tmin":19.1,"temperature":19.3}
+{"date":"2023-01-13T03:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.6,"tmin":18.3,"temperature":18.5}
+{"date":"2023-01-13T03:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.9,"tmin":15.6,"temperature":15.6}
+{"date":"2023-01-13T03:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.7,"tmin":15.4,"temperature":15.5}
+{"date":"2023-01-13T03:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":18.8,"tmin":18.5,"temperature":18.7}
+{"date":"2023-01-13T03:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.4,"tmin":19.3,"temperature":19.3}
+{"date":"2023-01-13T03:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":12.1,"tmin":11.6,"temperature":12.1}
+{"date":"2023-01-13T03:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.4,"tmin":16.1,"temperature":16.4}
+{"date":"2023-01-13T03:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.5,"tmin":18.6,"temperature":19.2}
+{"date":"2023-01-13T03:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.7,"tmin":19.3,"temperature":19.5}
+{"date":"2023-01-13T03:00:00","station":"C665T","place":"VALLESECO","tmax":10.7,"tmin":10.3,"temperature":10.7}
+{"date":"2023-01-13T03:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.6,"tmin":15.3,"temperature":15.6}
+{"date":"2023-01-13T03:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.5,"tmin":18.4,"temperature":18.4}
+{"date":"2023-01-13T03:00:00","station":"C689E","place":"MASPALOMAS","tmax":19.6,"tmin":18.3,"temperature":18.3}
+{"date":"2023-01-13T04:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":5.4,"tmin":4.4,"temperature":5.4}
+{"date":"2023-01-13T04:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.8,"tmin":5.7,"temperature":6.8}
+{"date":"2023-01-13T04:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":11.0,"tmin":10.2,"temperature":10.7}
+{"date":"2023-01-13T04:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":18.9,"tmin":18.7,"temperature":18.9}
+{"date":"2023-01-13T04:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.5,"tmin":18.9,"temperature":19.1}
+{"date":"2023-01-13T04:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":8.0,"tmin":7.7,"temperature":7.7}
+{"date":"2023-01-13T04:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":11.5,"tmin":11.2,"temperature":11.2}
+{"date":"2023-01-13T04:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":15.4,"tmin":14.5,"temperature":14.5}
+{"date":"2023-01-13T04:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":18.4,"tmin":18.0,"temperature":18.0}
+{"date":"2023-01-13T04:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.3,"tmin":15.8,"temperature":16.0}
+{"date":"2023-01-13T04:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":10.0,"tmin":9.2,"temperature":9.6}
+{"date":"2023-01-13T04:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":19.2,"tmin":18.9,"temperature":18.9}
+{"date":"2023-01-13T04:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.6,"tmin":18.4,"temperature":18.4}
+{"date":"2023-01-13T04:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.8,"tmin":15.7,"temperature":15.7}
+{"date":"2023-01-13T04:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.6,"tmin":15.4,"temperature":15.4}
+{"date":"2023-01-13T04:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.0,"tmin":18.7,"temperature":19.0}
+{"date":"2023-01-13T04:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.4,"tmin":19.1,"temperature":19.2}
+{"date":"2023-01-13T04:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":12.4,"tmin":12.0,"temperature":12.3}
+{"date":"2023-01-13T04:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.4,"tmin":16.4,"temperature":16.4}
+{"date":"2023-01-13T04:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.2,"tmin":19.0,"temperature":19.1}
+{"date":"2023-01-13T04:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.6,"tmin":19.2,"temperature":19.2}
+{"date":"2023-01-13T04:00:00","station":"C665T","place":"VALLESECO","tmax":10.9,"tmin":10.7,"temperature":10.8}
+{"date":"2023-01-13T04:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.5,"tmin":15.3,"temperature":15.5}
+{"date":"2023-01-13T04:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.5,"tmin":18.2,"temperature":18.2}
+{"date":"2023-01-13T04:00:00","station":"C689E","place":"MASPALOMAS","tmax":18.7,"tmin":17.0,"temperature":17.8}
+{"date":"2023-01-13T05:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":5.6,"tmin":4.8,"temperature":5.1}
+{"date":"2023-01-13T05:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.8,"tmin":6.3,"temperature":6.3}
+{"date":"2023-01-13T05:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.9,"tmin":10.4,"temperature":10.4}
+{"date":"2023-01-13T05:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":19.0,"tmin":18.8,"temperature":18.9}
+{"date":"2023-01-13T05:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.3,"tmin":18.8,"temperature":18.9}
+{"date":"2023-01-13T05:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":7.6,"tmin":7.4,"temperature":7.6}
+{"date":"2023-01-13T05:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":11.2,"tmin":11.0,"temperature":11.0}
+{"date":"2023-01-13T05:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":14.3,"tmin":13.7,"temperature":13.9}
+{"date":"2023-01-13T05:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":18.1,"tmin":17.9,"temperature":17.9}
+{"date":"2023-01-13T05:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.4,"tmin":16.0,"temperature":16.0}
+{"date":"2023-01-13T05:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":11.0,"tmin":10.3,"temperature":10.3}
+{"date":"2023-01-13T05:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":18.7,"tmin":18.1,"temperature":18.1}
+{"date":"2023-01-13T05:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.4,"tmin":18.3,"temperature":18.4}
+{"date":"2023-01-13T05:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.7,"tmin":15.6,"temperature":15.7}
+{"date":"2023-01-13T05:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.6,"tmin":15.4,"temperature":15.5}
+{"date":"2023-01-13T05:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.2,"tmin":18.9,"temperature":19.2}
+{"date":"2023-01-13T05:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.2,"tmin":19.1,"temperature":19.2}
+{"date":"2023-01-13T05:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":12.2,"tmin":12.0,"temperature":12.1}
+{"date":"2023-01-13T05:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.4,"tmin":16.1,"temperature":16.1}
+{"date":"2023-01-13T05:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.2,"tmin":18.9,"temperature":19.1}
+{"date":"2023-01-13T05:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.5,"tmin":19.1,"temperature":19.3}
+{"date":"2023-01-13T05:00:00","station":"C665T","place":"VALLESECO","tmax":10.8,"tmin":10.5,"temperature":10.6}
+{"date":"2023-01-13T05:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.6,"tmin":15.3,"temperature":15.3}
+{"date":"2023-01-13T05:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.1,"tmin":17.7,"temperature":18.0}
+{"date":"2023-01-13T05:00:00","station":"C689E","place":"MASPALOMAS","tmax":18.0,"tmin":16.9,"temperature":17.1}
+{"date":"2023-01-13T06:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":5.2,"tmin":4.0,"temperature":4.0}
+{"date":"2023-01-13T06:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.3,"tmin":5.7,"temperature":5.7}
+{"date":"2023-01-13T06:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.7,"tmin":9.9,"temperature":10.1}
+{"date":"2023-01-13T06:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":18.8,"tmin":18.6,"temperature":18.6}
+{"date":"2023-01-13T06:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.0,"tmin":18.8,"temperature":18.9}
+{"date":"2023-01-13T06:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":7.6,"tmin":7.2,"temperature":7.2}
+{"date":"2023-01-13T06:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":11.0,"tmin":10.9,"temperature":10.9}
+{"date":"2023-01-13T06:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":14.0,"tmin":13.9,"temperature":14.0}
+{"date":"2023-01-13T06:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":17.8,"tmin":17.6,"temperature":17.7}
+{"date":"2023-01-13T06:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.1,"tmin":15.8,"temperature":15.8}
+{"date":"2023-01-13T06:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":10.0,"tmin":9.3,"temperature":9.3}
+{"date":"2023-01-13T06:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":18.7,"tmin":18.3,"temperature":18.5}
+{"date":"2023-01-13T06:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.5,"tmin":17.9,"temperature":17.9}
+{"date":"2023-01-13T06:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.7,"tmin":15.1,"temperature":15.1}
+{"date":"2023-01-13T06:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.4,"tmin":15.0,"temperature":15.0}
+{"date":"2023-01-13T06:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.2,"tmin":18.8,"temperature":18.8}
+{"date":"2023-01-13T06:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.2,"tmin":19.0,"temperature":19.0}
+{"date":"2023-01-13T06:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":11.9,"tmin":11.5,"temperature":11.5}
+{"date":"2023-01-13T06:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.2,"tmin":15.8,"temperature":15.8}
+{"date":"2023-01-13T06:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.4,"tmin":18.9,"temperature":18.9}
+{"date":"2023-01-13T06:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.3,"tmin":19.0,"temperature":19.0}
+{"date":"2023-01-13T06:00:00","station":"C665T","place":"VALLESECO","tmax":10.4,"tmin":10.0,"temperature":10.1}
+{"date":"2023-01-13T06:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.3,"tmin":15.1,"temperature":15.1}
+{"date":"2023-01-13T06:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.1,"tmin":17.8,"temperature":17.8}
+{"date":"2023-01-13T06:00:00","station":"C689E","place":"MASPALOMAS","tmax":18.9,"tmin":17.2,"temperature":18.0}
+{"date":"2023-01-13T07:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":3.6,"tmin":3.2,"temperature":3.4}
+{"date":"2023-01-13T07:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":5.7,"tmin":5.5,"temperature":5.5}
+{"date":"2023-01-13T07:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.3,"tmin":9.8,"temperature":9.9}
+{"date":"2023-01-13T07:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":18.6,"tmin":18.2,"temperature":18.2}
+{"date":"2023-01-13T07:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":18.9,"tmin":18.6,"temperature":18.8}
+{"date":"2023-01-13T07:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":11.5,"tmin":7.4,"temperature":11.5}
+{"date":"2023-01-13T07:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":10.9,"tmin":10.8,"temperature":10.9}
+{"date":"2023-01-13T07:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":14.0,"tmin":13.2,"temperature":13.2}
+{"date":"2023-01-13T07:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":17.8,"tmin":17.6,"temperature":17.7}
+{"date":"2023-01-13T07:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.1,"tmin":15.8,"temperature":15.9}
+{"date":"2023-01-13T07:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":9.6,"tmin":9.2,"temperature":9.4}
+{"date":"2023-01-13T07:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":18.5,"tmin":18.4,"temperature":18.5}
+{"date":"2023-01-13T07:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":17.9,"tmin":17.8,"temperature":17.8}
+{"date":"2023-01-13T07:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.2,"tmin":15.0,"temperature":15.2}
+{"date":"2023-01-13T07:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":14.8,"tmin":14.4,"temperature":14.4}
+{"date":"2023-01-13T07:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":18.9,"tmin":17.7,"temperature":17.7}
+{"date":"2023-01-13T07:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":18.9,"tmin":18.7,"temperature":18.7}
+{"date":"2023-01-13T07:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":11.1,"tmin":10.4,"temperature":10.8}
+{"date":"2023-01-13T07:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":15.7,"tmin":15.1,"temperature":15.1}
+{"date":"2023-01-13T07:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.5,"tmin":17.5,"temperature":18.9}
+{"date":"2023-01-13T07:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.3,"tmin":18.9,"temperature":19.0}
+{"date":"2023-01-13T07:00:00","station":"C665T","place":"VALLESECO","tmax":9.9,"tmin":9.5,"temperature":9.7}
+{"date":"2023-01-13T07:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.1,"tmin":14.9,"temperature":15.1}
+{"date":"2023-01-13T07:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":17.9,"tmin":17.7,"temperature":17.8}
+{"date":"2023-01-13T07:00:00","station":"C689E","place":"MASPALOMAS","tmax":18.7,"tmin":17.6,"temperature":18.7}
+{"date":"2023-01-13T08:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":4.1,"tmin":3.8,"temperature":4.0}
+{"date":"2023-01-13T08:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":5.9,"tmin":5.4,"temperature":5.9}
+{"date":"2023-01-13T08:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.6,"tmin":9.9,"temperature":10.1}
+{"date":"2023-01-13T08:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":18.3,"tmin":18.2,"temperature":18.2}
+{"date":"2023-01-13T08:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":18.8,"tmin":18.5,"temperature":18.5}
+{"date":"2023-01-13T08:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":11.6,"tmin":8.6,"temperature":8.6}
+{"date":"2023-01-13T08:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":10.8,"tmin":10.4,"temperature":10.4}
+{"date":"2023-01-13T08:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":14.0,"tmin":13.4,"temperature":14.0}
+{"date":"2023-01-13T08:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":18.0,"tmin":17.6,"temperature":18.0}
+{"date":"2023-01-13T08:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.3,"tmin":15.9,"temperature":16.1}
+{"date":"2023-01-13T08:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":9.8,"tmin":8.9,"temperature":9.8}
+{"date":"2023-01-13T08:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":18.5,"tmin":18.5,"temperature":18.5}
+{"date":"2023-01-13T08:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.0,"tmin":17.7,"temperature":17.9}
+{"date":"2023-01-13T08:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":15.3,"tmin":15.0,"temperature":15.2}
+{"date":"2023-01-13T08:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":14.6,"tmin":14.5,"temperature":14.6}
+{"date":"2023-01-13T08:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":17.9,"tmin":17.7,"temperature":17.8}
+{"date":"2023-01-13T08:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":18.8,"tmin":18.6,"temperature":18.8}
+{"date":"2023-01-13T08:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":11.2,"tmin":10.8,"temperature":10.9}
+{"date":"2023-01-13T08:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":15.2,"tmin":14.8,"temperature":14.8}
+{"date":"2023-01-13T08:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.6,"tmin":16.5,"temperature":19.4}
+{"date":"2023-01-13T08:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.4,"tmin":19.0,"temperature":19.1}
+{"date":"2023-01-13T08:00:00","station":"C665T","place":"VALLESECO","tmax":10.0,"tmin":9.6,"temperature":9.6}
+{"date":"2023-01-13T08:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.1,"tmin":14.9,"temperature":15.0}
+{"date":"2023-01-13T08:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":17.9,"tmin":17.8,"temperature":17.8}
+{"date":"2023-01-13T08:00:00","station":"C689E","place":"MASPALOMAS","tmax":18.9,"tmin":18.5,"temperature":18.7}
+{"date":"2023-01-13T09:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":4.9,"tmin":4.0,"temperature":4.9}
+{"date":"2023-01-13T09:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":5.5,"tmin":5.4,"temperature":5.5}
+{"date":"2023-01-13T09:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":10.3,"tmin":9.7,"temperature":9.9}
+{"date":"2023-01-13T09:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":18.8,"tmin":18.2,"temperature":18.8}
+{"date":"2023-01-13T09:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":19.4,"tmin":18.5,"temperature":19.0}
+{"date":"2023-01-13T09:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":8.8,"tmin":8.0,"temperature":8.6}
+{"date":"2023-01-13T09:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":10.9,"tmin":10.5,"temperature":10.9}
+{"date":"2023-01-13T09:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":13.9,"tmin":13.4,"temperature":13.9}
+{"date":"2023-01-13T09:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":20.9,"tmin":18.3,"temperature":20.9}
+{"date":"2023-01-13T09:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":16.6,"tmin":15.9,"temperature":16.6}
+{"date":"2023-01-13T09:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":10.7,"tmin":10.1,"temperature":10.7}
+{"date":"2023-01-13T09:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":19.4,"tmin":18.5,"temperature":19.4}
+{"date":"2023-01-13T09:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":18.9,"tmin":18.0,"temperature":18.9}
+{"date":"2023-01-13T09:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":16.2,"tmin":15.2,"temperature":16.2}
+{"date":"2023-01-13T09:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":15.5,"tmin":14.6,"temperature":15.5}
+{"date":"2023-01-13T09:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":19.4,"tmin":17.8,"temperature":19.4}
+{"date":"2023-01-13T09:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":19.2,"tmin":18.8,"temperature":19.2}
+{"date":"2023-01-13T09:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":11.6,"tmin":10.6,"temperature":11.6}
+{"date":"2023-01-13T09:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":15.8,"tmin":14.9,"temperature":15.8}
+{"date":"2023-01-13T09:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.8,"tmin":16.6,"temperature":19.2}
+{"date":"2023-01-13T09:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.3,"tmin":19.0,"temperature":19.3}
+{"date":"2023-01-13T09:00:00","station":"C665T","place":"VALLESECO","tmax":10.0,"tmin":9.5,"temperature":10.0}
+{"date":"2023-01-13T09:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.2,"tmin":14.9,"temperature":15.2}
+{"date":"2023-01-13T09:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.7,"tmin":17.7,"temperature":18.7}
+{"date":"2023-01-13T09:00:00","station":"C689E","place":"MASPALOMAS","tmax":19.7,"tmin":17.9,"temperature":19.6}
+{"date":"2023-01-13T10:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":7.2,"tmin":5.2,"temperature":7.0}
+{"date":"2023-01-13T10:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.2,"tmin":5.6,"temperature":5.9}
+{"date":"2023-01-13T10:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":11.6,"tmin":9.9,"temperature":11.1}
+{"date":"2023-01-13T10:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":19.5,"tmin":18.9,"temperature":19.5}
+{"date":"2023-01-13T10:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":20.1,"tmin":18.2,"temperature":20.1}
+{"date":"2023-01-13T10:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":12.8,"tmin":9.3,"temperature":12.6}
+{"date":"2023-01-13T10:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":11.4,"tmin":10.9,"temperature":11.4}
+{"date":"2023-01-13T10:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":14.8,"tmin":13.9,"temperature":14.8}
+{"date":"2023-01-13T10:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":24.5,"tmin":21.9,"temperature":22.7}
+{"date":"2023-01-13T10:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":18.4,"tmin":16.6,"temperature":18.4}
+{"date":"2023-01-13T10:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":14.1,"tmin":11.3,"temperature":14.1}
+{"date":"2023-01-13T10:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":20.3,"tmin":19.7,"temperature":20.3}
+{"date":"2023-01-13T10:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":20.0,"tmin":19.1,"temperature":20.0}
+{"date":"2023-01-13T10:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":17.1,"tmin":16.5,"temperature":16.8}
+{"date":"2023-01-13T10:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":16.4,"tmin":15.7,"temperature":16.3}
+{"date":"2023-01-13T10:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":20.9,"tmin":19.1,"temperature":20.7}
+{"date":"2023-01-13T10:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":20.1,"tmin":19.2,"temperature":20.0}
+{"date":"2023-01-13T10:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":15.5,"tmin":11.9,"temperature":13.8}
+{"date":"2023-01-13T10:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":16.6,"tmin":15.8,"temperature":16.6}
+{"date":"2023-01-13T10:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":19.8,"tmin":18.6,"temperature":19.1}
+{"date":"2023-01-13T10:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":19.8,"tmin":19.2,"temperature":19.6}
+{"date":"2023-01-13T10:00:00","station":"C665T","place":"VALLESECO","tmax":11.2,"tmin":10.1,"temperature":10.9}
+{"date":"2023-01-13T10:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":15.8,"tmin":15.2,"temperature":15.8}
+{"date":"2023-01-13T10:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":18.7,"tmin":18.3,"temperature":18.7}
+{"date":"2023-01-13T10:00:00","station":"C689E","place":"MASPALOMAS","tmax":20.5,"tmin":19.6,"temperature":20.4}
+{"date":"2023-01-13T11:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":7.3,"tmin":5.8,"temperature":7.3}
+{"date":"2023-01-13T11:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.5,"tmin":5.8,"temperature":6.4}
+{"date":"2023-01-13T11:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":11.5,"tmin":10.4,"temperature":11.5}
+{"date":"2023-01-13T11:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":19.9,"tmin":19.5,"temperature":19.9}
+{"date":"2023-01-13T11:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":21.1,"tmin":20.1,"temperature":21.0}
+{"date":"2023-01-13T11:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":13.0,"tmin":12.6,"temperature":12.6}
+{"date":"2023-01-13T11:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":15.0,"tmin":11.4,"temperature":15.0}
+{"date":"2023-01-13T11:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":18.5,"tmin":15.8,"temperature":18.5}
+{"date":"2023-01-13T11:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":21.8,"tmin":20.4,"temperature":20.4}
+{"date":"2023-01-13T11:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":22.1,"tmin":18.4,"temperature":21.7}
+{"date":"2023-01-13T11:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":16.5,"tmin":14.6,"temperature":16.5}
+{"date":"2023-01-13T11:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":21.1,"tmin":20.3,"temperature":21.1}
+{"date":"2023-01-13T11:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":20.8,"tmin":20.3,"temperature":20.8}
+{"date":"2023-01-13T11:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":18.1,"tmin":17.3,"temperature":17.4}
+{"date":"2023-01-13T11:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":16.9,"tmin":16.4,"temperature":16.9}
+{"date":"2023-01-13T11:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":20.7,"tmin":20.1,"temperature":20.4}
+{"date":"2023-01-13T11:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":20.8,"tmin":19.9,"temperature":20.8}
+{"date":"2023-01-13T11:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":15.3,"tmin":13.8,"temperature":15.3}
+{"date":"2023-01-13T11:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":17.6,"tmin":16.7,"temperature":17.6}
+{"date":"2023-01-13T11:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.6,"tmin":17.1,"temperature":18.5}
+{"date":"2023-01-13T11:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":20.6,"tmin":19.7,"temperature":20.2}
+{"date":"2023-01-13T11:00:00","station":"C665T","place":"VALLESECO","tmax":12.1,"tmin":10.9,"temperature":12.1}
+{"date":"2023-01-13T11:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":16.6,"tmin":16.0,"temperature":16.6}
+{"date":"2023-01-13T11:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":20.2,"tmin":18.8,"temperature":19.5}
+{"date":"2023-01-13T11:00:00","station":"C689E","place":"MASPALOMAS","tmax":21.3,"tmin":20.3,"temperature":21.3}
+{"date":"2023-01-13T12:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":7.6,"tmin":6.8,"temperature":7.6}
+{"date":"2023-01-13T12:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.6,"tmin":6.1,"temperature":6.6}
+{"date":"2023-01-13T12:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":12.1,"tmin":11.1,"temperature":11.9}
+{"date":"2023-01-13T12:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":20.3,"tmin":20.0,"temperature":20.3}
+{"date":"2023-01-13T12:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":22.4,"tmin":21.0,"temperature":22.4}
+{"date":"2023-01-13T12:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":14.3,"tmin":13.0,"temperature":14.0}
+{"date":"2023-01-13T12:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":16.4,"tmin":15.5,"temperature":15.8}
+{"date":"2023-01-13T12:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":20.2,"tmin":18.5,"temperature":20.2}
+{"date":"2023-01-13T12:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":20.8,"tmin":20.5,"temperature":20.7}
+{"date":"2023-01-13T12:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":22.5,"tmin":21.6,"temperature":22.0}
+{"date":"2023-01-13T12:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":17.9,"tmin":17.1,"temperature":17.9}
+{"date":"2023-01-13T12:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":21.5,"tmin":21.1,"temperature":21.5}
+{"date":"2023-01-13T12:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":21.4,"tmin":20.9,"temperature":21.4}
+{"date":"2023-01-13T12:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":19.5,"tmin":17.8,"temperature":19.5}
+{"date":"2023-01-13T12:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":18.1,"tmin":17.3,"temperature":18.1}
+{"date":"2023-01-13T12:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":21.8,"tmin":20.3,"temperature":21.4}
+{"date":"2023-01-13T12:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":21.3,"tmin":20.7,"temperature":20.7}
+{"date":"2023-01-13T12:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":15.7,"tmin":14.1,"temperature":15.5}
+{"date":"2023-01-13T12:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":18.0,"tmin":17.4,"temperature":17.9}
+{"date":"2023-01-13T12:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.4,"tmin":19.0,"temperature":19.3}
+{"date":"2023-01-13T12:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":20.4,"tmin":19.9,"temperature":19.9}
+{"date":"2023-01-13T12:00:00","station":"C665T","place":"VALLESECO","tmax":13.9,"tmin":11.8,"temperature":13.9}
+{"date":"2023-01-13T12:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":17.2,"tmin":16.2,"temperature":17.1}
+{"date":"2023-01-13T12:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":20.2,"tmin":19.3,"temperature":19.7}
+{"date":"2023-01-13T12:00:00","station":"C689E","place":"MASPALOMAS","tmax":21.9,"tmin":21.2,"temperature":21.9}
+{"date":"2023-01-13T13:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":7.1,"tmin":6.2,"temperature":6.7}
+{"date":"2023-01-13T13:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":6.9,"tmin":6.6,"temperature":6.9}
+{"date":"2023-01-13T13:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":14.7,"tmin":11.8,"temperature":13.8}
+{"date":"2023-01-13T13:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":20.3,"tmin":19.6,"temperature":19.9}
+{"date":"2023-01-13T13:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":22.9,"tmin":21.9,"temperature":22.5}
+{"date":"2023-01-13T13:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":14.2,"tmin":13.0,"temperature":13.0}
+{"date":"2023-01-13T13:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":16.0,"tmin":15.2,"temperature":16.0}
+{"date":"2023-01-13T13:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":21.8,"tmin":20.6,"temperature":21.8}
+{"date":"2023-01-13T13:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":20.6,"tmin":20.3,"temperature":20.4}
+{"date":"2023-01-13T13:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":23.2,"tmin":21.9,"temperature":23.1}
+{"date":"2023-01-13T13:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":18.4,"tmin":18.0,"temperature":18.0}
+{"date":"2023-01-13T13:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":22.2,"tmin":21.5,"temperature":22.0}
+{"date":"2023-01-13T13:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":21.4,"tmin":20.8,"temperature":20.8}
+{"date":"2023-01-13T13:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":19.3,"tmin":18.1,"temperature":18.3}
+{"date":"2023-01-13T13:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":21.9,"tmin":20.2,"temperature":21.5}
+{"date":"2023-01-13T13:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":20.8,"tmin":20.4,"temperature":20.7}
+{"date":"2023-01-13T13:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":15.0,"tmin":13.4,"temperature":13.4}
+{"date":"2023-01-13T13:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":18.1,"tmin":17.4,"temperature":18.1}
+{"date":"2023-01-13T13:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.3,"tmin":18.3,"temperature":20.1}
+{"date":"2023-01-13T13:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":21.1,"tmin":19.8,"temperature":20.6}
+{"date":"2023-01-13T13:00:00","station":"C665T","place":"VALLESECO","tmax":13.5,"tmin":11.6,"temperature":11.6}
+{"date":"2023-01-13T13:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":17.2,"tmin":16.3,"temperature":16.3}
+{"date":"2023-01-13T13:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":19.9,"tmin":19.3,"temperature":19.9}
+{"date":"2023-01-13T13:00:00","station":"C689E","place":"MASPALOMAS","tmax":22.5,"tmin":21.7,"temperature":22.0}
+{"date":"2023-01-13T14:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":6.7,"tmin":5.8,"temperature":5.8}
+{"date":"2023-01-13T14:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":7.2,"tmin":6.7,"temperature":6.7}
+{"date":"2023-01-13T14:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":13.8,"tmin":12.6,"temperature":13.1}
+{"date":"2023-01-13T14:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":20.8,"tmin":20.1,"temperature":20.5}
+{"date":"2023-01-13T14:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":22.6,"tmin":22.0,"temperature":22.5}
+{"date":"2023-01-13T14:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":13.9,"tmin":12.3,"temperature":13.8}
+{"date":"2023-01-13T14:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":23.1,"tmin":21.9,"temperature":21.9}
+{"date":"2023-01-13T14:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":20.6,"tmin":20.3,"temperature":20.6}
+{"date":"2023-01-13T14:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":23.0,"tmin":21.0,"temperature":21.0}
+{"date":"2023-01-13T14:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":18.7,"tmin":18.0,"temperature":18.6}
+{"date":"2023-01-13T14:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":22.2,"tmin":21.8,"temperature":22.2}
+{"date":"2023-01-13T14:00:00","station":"C639U","place":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tmax":22.2,"tmin":21.7,"temperature":22.2}
+{"date":"2023-01-13T14:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":22.3,"tmin":21.4,"temperature":21.5}
+{"date":"2023-01-13T14:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":22.0,"tmin":20.7,"temperature":22.0}
+{"date":"2023-01-13T14:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":15.1,"tmin":14.1,"temperature":14.7}
+{"date":"2023-01-13T14:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":18.4,"tmin":18.1,"temperature":18.1}
+{"date":"2023-01-13T14:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.6,"tmin":18.5,"temperature":19.7}
+{"date":"2023-01-13T14:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":21.0,"tmin":20.3,"temperature":20.8}
+{"date":"2023-01-13T14:00:00","station":"C665T","place":"VALLESECO","tmax":12.8,"tmin":11.6,"temperature":12.8}
+{"date":"2023-01-13T14:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":17.0,"tmin":16.5,"temperature":16.8}
+{"date":"2023-01-13T14:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":20.2,"tmin":19.8,"temperature":19.9}
+{"date":"2023-01-13T14:00:00","station":"C689E","place":"MASPALOMAS","tmax":22.7,"tmin":21.7,"temperature":22.7}
+{"date":"2023-01-13T15:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":7.8,"tmin":6.1,"temperature":7.8}
+{"date":"2023-01-13T15:00:00","station":"C612F","place":"TEJEDA-CRUZ DE TEJEDA","tmax":7.4,"tmin":6.7,"temperature":7.2}
+{"date":"2023-01-13T15:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":14.8,"tmin":11.8,"temperature":14.6}
+{"date":"2023-01-13T15:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":21.1,"tmin":20.3,"temperature":20.9}
+{"date":"2023-01-13T15:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":22.8,"tmin":22.3,"temperature":22.6}
+{"date":"2023-01-13T15:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":15.0,"tmin":13.7,"temperature":15.0}
+{"date":"2023-01-13T15:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":22.7,"tmin":21.7,"temperature":22.7}
+{"date":"2023-01-13T15:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":20.8,"tmin":20.4,"temperature":20.8}
+{"date":"2023-01-13T15:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":22.1,"tmin":21.0,"temperature":21.8}
+{"date":"2023-01-13T15:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":18.6,"tmin":17.2,"temperature":17.4}
+{"date":"2023-01-13T15:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":23.1,"tmin":22.3,"temperature":22.8}
+{"date":"2023-01-13T15:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":22.3,"tmin":21.1,"temperature":21.4}
+{"date":"2023-01-13T15:00:00","station":"C649R","place":"TELDE-MELENARA","tmax":21.8,"tmin":21.4,"temperature":21.4}
+{"date":"2023-01-13T15:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":14.8,"tmin":14.0,"temperature":14.0}
+{"date":"2023-01-13T15:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":18.3,"tmin":17.8,"temperature":17.8}
+{"date":"2023-01-13T15:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.8,"tmin":18.2,"temperature":20.1}
+{"date":"2023-01-13T15:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":21.2,"tmin":20.5,"temperature":20.5}
+{"date":"2023-01-13T15:00:00","station":"C665T","place":"VALLESECO","tmax":12.9,"tmin":12.3,"temperature":12.8}
+{"date":"2023-01-13T15:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":17.6,"tmin":16.8,"temperature":17.5}
+{"date":"2023-01-13T15:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":20.7,"tmin":20.2,"temperature":20.7}
+{"date":"2023-01-13T15:00:00","station":"C689E","place":"MASPALOMAS","tmax":23.4,"tmin":22.4,"temperature":22.4}
+{"date":"2023-01-13T16:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":15.5,"tmin":12.1,"temperature":12.1}
+{"date":"2023-01-13T16:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":20.9,"tmin":20.6,"temperature":20.6}
+{"date":"2023-01-13T16:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":22.9,"tmin":22.4,"temperature":22.5}
+{"date":"2023-01-13T16:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":15.3,"tmin":13.6,"temperature":13.6}
+{"date":"2023-01-13T16:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":22.6,"tmin":22.4,"temperature":22.4}
+{"date":"2023-01-13T16:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":21.2,"tmin":20.9,"temperature":21.2}
+{"date":"2023-01-13T16:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":22.4,"tmin":21.2,"temperature":21.5}
+{"date":"2023-01-13T16:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":22.2,"tmin":21.4,"temperature":21.4}
+{"date":"2023-01-13T16:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":21.7,"tmin":21.2,"temperature":21.4}
+{"date":"2023-01-13T16:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":18.3,"tmin":17.8,"temperature":17.9}
+{"date":"2023-01-13T16:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":21.5,"tmin":19.1,"temperature":20.0}
+{"date":"2023-01-13T16:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":21.3,"tmin":20.5,"temperature":20.6}
+{"date":"2023-01-13T16:00:00","station":"C689E","place":"MASPALOMAS","tmax":22.3,"tmin":21.2,"temperature":21.5}
+{"date":"2023-01-13T13:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":18.0,"tmin":16.8,"temperature":17.1}
+{"date":"2023-01-13T14:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":17.6,"tmin":16.2,"temperature":17.3}
+{"date":"2023-01-13T14:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":18.9,"tmin":17.1,"temperature":18.9}
+{"date":"2023-01-13T15:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":19.3,"tmin":18.1,"temperature":18.7}
+{"date":"2023-01-13T15:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":19.1,"tmin":17.7,"temperature":18.1}
+{"date":"2023-01-13T16:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":7.2,"tmin":6.7,"temperature":7.2}
+{"date":"2023-01-13T16:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":18.5,"tmin":17.2,"temperature":17.7}
+{"date":"2023-01-13T16:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":18.0,"tmin":16.6,"temperature":16.6}
+{"date":"2023-01-13T16:00:00","station":"C648N","place":"TELDE-CENTRO FORESTAL DORAMAS","tmax":17.5,"tmin":17.1,"temperature":17.2}
+{"date":"2023-01-13T16:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":15.5,"tmin":14.1,"temperature":15.0}
+{"date":"2023-01-13T16:00:00","station":"C665T","place":"VALLESECO","tmax":14.1,"tmin":12.2,"temperature":14.1}
+{"date":"2023-01-13T16:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":17.5,"tmin":17.0,"temperature":17.5}
+{"date":"2023-01-13T16:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":20.8,"tmin":19.8,"temperature":20.2}
+{"date":"2023-01-13T17:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":12.8,"tmin":11.7,"temperature":11.7}
+{"date":"2023-01-13T17:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":20.7,"tmin":20.5,"temperature":20.5}
+{"date":"2023-01-13T17:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":22.5,"tmin":21.3,"temperature":21.3}
+{"date":"2023-01-13T17:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":13.5,"tmin":11.7,"temperature":11.7}
+{"date":"2023-01-13T17:00:00","station":"C625O","place":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tmax":18.8,"tmin":17.8,"temperature":18.5}
+{"date":"2023-01-13T17:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":22.3,"tmin":22.2,"temperature":22.2}
+{"date":"2023-01-13T17:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":21.5,"tmin":21.2,"temperature":21.2}
+{"date":"2023-01-13T17:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":21.8,"tmin":20.8,"temperature":20.8}
+{"date":"2023-01-13T17:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":21.4,"tmin":21.0,"temperature":21.1}
+{"date":"2023-01-13T17:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":21.4,"tmin":20.7,"temperature":20.8}
+{"date":"2023-01-13T17:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":18.1,"tmin":17.5,"temperature":17.5}
+{"date":"2023-01-13T17:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.5,"tmin":17.3,"temperature":19.5}
+{"date":"2023-01-13T17:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":20.9,"tmin":20.1,"temperature":20.2}
+{"date":"2023-01-13T17:00:00","station":"C689E","place":"MASPALOMAS","tmax":22.0,"tmin":21.1,"temperature":21.9}
+{"date":"2023-01-13T14:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":19.9,"tmin":18.5,"temperature":19.9}
+{"date":"2023-01-13T15:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":20.1,"tmin":18.8,"temperature":19.3}
+{"date":"2023-01-13T16:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":18.9,"tmin":18.0,"temperature":18.0}
+{"date":"2023-01-13T17:00:00","station":"C611E","place":"SAN MATEO (CORRAL DE LOS JUNCOS)","tmax":6.6,"tmin":5.6,"temperature":5.6}
+{"date":"2023-01-13T17:00:00","station":"C635B","place":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tmax":16.1,"tmin":14.7,"temperature":14.7}
+{"date":"2023-01-13T17:00:00","station":"C648C","place":"AGÜIMES-EL MILANO","tmax":18.3,"tmin":17.8,"temperature":18.2}
+{"date":"2023-01-13T17:00:00","station":"C656V","place":"TEROR-OSORIO","tmax":14.4,"tmin":13.9,"temperature":13.9}
+{"date":"2023-01-13T17:00:00","station":"C665T","place":"VALLESECO","tmax":13.6,"tmin":12.0,"temperature":12.7}
+{"date":"2023-01-13T17:00:00","station":"C668V","place":"AGAETE - SUERTE ALTA","tmax":17.4,"tmin":17.0,"temperature":17.3}
+{"date":"2023-01-13T17:00:00","station":"C669B","place":"ARUCAS-BAÑADEROS","tmax":20.3,"tmin":19.4,"temperature":19.5}
+{"date":"2023-01-13T18:00:00","station":"C614H","place":"TEJEDA CASCO","tmax":12.7,"tmin":11.2,"temperature":11.8}
+{"date":"2023-01-13T18:00:00","station":"C619X","place":"AGAETE-CASCO","tmax":20.5,"tmin":19.9,"temperature":20.0}
+{"date":"2023-01-13T18:00:00","station":"C619Y","place":"LA ALDEA DE SAN NICOLAS","tmax":21.3,"tmin":20.2,"temperature":20.2}
+{"date":"2023-01-13T18:00:00","station":"C623I","place":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tmax":11.6,"tmin":11.4,"temperature":11.4}
+{"date":"2023-01-13T18:00:00","station":"C628B","place":"SAN NICOLAS T.-TASARTE/COPARLITA","tmax":22.1,"tmin":20.1,"temperature":20.1}
+{"date":"2023-01-13T18:00:00","station":"C629Q","place":"MOGAN (PUERTO RICO)","tmax":20.8,"tmin":20.6,"temperature":20.6}
+{"date":"2023-01-13T18:00:00","station":"C629X","place":"PUERTO DE MOGÁN","tmax":22.4,"tmin":20.8,"temperature":21.0}
+{"date":"2023-01-13T18:00:00","station":"C639M","place":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tmax":21.2,"tmin":20.7,"temperature":20.7}
+{"date":"2023-01-13T18:00:00","station":"C649I","place":"LAS PALMAS DE GRAN CANARIA/GANDO","tmax":20.9,"tmin":20.0,"temperature":20.1}
+{"date":"2023-01-13T18:00:00","station":"C658X","place":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tmax":17.6,"tmin":17.1,"temperature":17.1}
+{"date":"2023-01-13T18:00:00","station":"C659H","place":"LAS PALMAS G.C. SAN CRISTÓBAL","tmax":20.2,"tmin":16.9,"temperature":19.4}
+{"date":"2023-01-13T18:00:00","station":"C659M","place":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tmax":20.3,"tmin":19.8,"temperature":19.8}
+{"date":"2023-01-13T18:00:00","station":"C689E","place":"MASPALOMAS","tmax":21.9,"tmin":20.6,"temperature":20.6}
